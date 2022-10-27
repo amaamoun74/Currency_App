@@ -19,9 +19,9 @@ fun Tag (
         .border(
             width = 0.dp,
             color = MaterialTheme.colors.primary,
-            shape = RoundedCornerShape(100.dp)
+            shape = RoundedCornerShape(150.dp)
         )
-        .padding(20.dp)
+        .padding(10.dp)
     ){
         Text(
             text = tag,

@@ -12,7 +12,7 @@ import androidx.compose.ui.unit.dp
 import com.plcoding.cryptocurrencyappyt.data.remote.dto.TeamMember
 
 @Composable
-fun TeamMember(
+fun TeamMemberName(
     teamMember: TeamMember,
     modifier: Modifier = Modifier
 ){
